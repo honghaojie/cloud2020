@@ -15,6 +15,7 @@ public class EurekaMain7001 {
         SpringApplication.run(EurekaMain7001.class, args);
         System.out.println("cc");
         System.out.println("ccaa");
+        System.out.println("dafds");
     }
 
 }
